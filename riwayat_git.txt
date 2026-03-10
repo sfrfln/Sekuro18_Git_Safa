@@ -1,0 +1,6 @@
+*   a857d5d merge v1 ke v2
+|\  
+| * 8a9a487 versi 1
+* | f3ae117 versi 2
+|/  
+* da930d9 inisiasi github
